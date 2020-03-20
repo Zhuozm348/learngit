@@ -3,4 +3,5 @@
 3月22日 晴朗
 asdsad6asd5a
 现在在分支dev
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
+
